@@ -1,0 +1,42 @@
+body {
+  font-family: 'Roboto Slab', serif;
+  width: 100vw;
+  height: 100vh;
+}
+
+.header,
+.footer {
+  background-color: #3882f6;
+}
+
+.links {
+  font-size: small;
+  margin-left: auto;
+  padding-right: 20px;
+  color: white;
+  margin-right: 20px;
+}
+.hlink {
+  margin-right: 20px;
+}
+
+.s1h1 {
+  font-size: large;
+  font-weight: 700;
+  color: #f9faf8;
+}
+
+.s1h4 {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+.headerLogo {
+  font-size: 24px;
+  color: #f9faf8;
+  margin-left: 50px;
+}
+
+.section1 {
+  background-color: #1f2937;
+}
