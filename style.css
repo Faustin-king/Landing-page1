@@ -62,6 +62,8 @@ body {
   border-radius: 8px;
 }
 
+/*Section 2 heading styles*/
+
 .links {
   font-size: small;
   margin-left: auto;
@@ -74,9 +76,10 @@ body {
 }
 
 .s1h1 {
-  font-size: large;
+  font-size: 30px;
   font-weight: 700;
   color: #f9faf8;
+  padding-bottom: 20px;
 }
 
 .s1h4 {
