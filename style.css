@@ -161,6 +161,48 @@ body {
   margin-right: 20px;
   font-weight: bold;
 }
+
+/* Section4 styles */
+.s4box {
+  width: 50%;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  min-height: 100px;
+  margin-right: auto;
+  margin-right: auto;
+  background-color: #3882f6;
+  box-direction: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.section4 {
+  padding-top: 70px;
+}
+
+.s4hs {
+  color: white;
+  margin-left: 20px;
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.s4btn {
+  width: 120px;
+  height: 50px;
+  background-color: rbg(255, 84, 84);
+  border-radius: 3px;
+  border: 1.5px solid rgb(255, 255, 255);
+  font-weight: 900;
+  margin-right: 10px;
+  color: rgb(255, 255, 255);
+}
+.s4btn:hover {
+  cursor: pointer;
+  background-color: red;
+}
+
 .links {
   font-size: small;
   margin-left: auto;
