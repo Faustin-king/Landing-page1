@@ -218,3 +218,12 @@ body {
   color: #f9faf8;
   margin-left: 50px;
 }
+/*footer styles*/
+
+.footer {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-weight: 700;
+  font-size: large;
+}
