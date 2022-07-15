@@ -95,6 +95,7 @@ body {
   height: 100px;
   border-radius: 5px;
   border: 3px solid rbg(0, 0, 0);
+  transition: 0.5s;
 }
 
 .s2boximg:hover {
@@ -109,7 +110,7 @@ body {
   margin-top: 30px;
 }
 
-/*Box1 contanier styles*/
+/*Box1 container styles*/
 
 .b1container {
   width: 100px;
@@ -132,6 +133,33 @@ body {
   font-size: 15px;
   margin-top: 5px;
   width: 170px;
+}
+
+/*Section3 styles*/
+
+.section3 {
+  margin-top: 70px;
+  background-color: #e5e7eb;
+  box-shadow: 0px 3px 25px 0 #8d8d8d, 0 4px 15px 0px #ccc, 0 5px 5px 0px #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.s3h3 {
+  max-width: 70%;
+  font-size: 20px;
+  color: #1f2937;
+  font-weight: lighter;
+  font-style: italic;
+}
+
+.s3h4 {
+  max-width: 70%;
+  margin-left: auto;
+  margin-right: 20px;
+  font-weight: bold;
 }
 .links {
   font-size: small;
