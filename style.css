@@ -109,6 +109,30 @@ body {
   margin-top: 30px;
 }
 
+/*Box1 contanier styles*/
+
+.b1container {
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1f2937;
+  border-radius: 10px;
+  transition: 0.5s;
+  cursor: pointer;
+}
+
+.b1container:hover {
+  width: 250px;
+  height: 250px;
+}
+
+.b1info {
+  font-size: 15px;
+  margin-top: 5px;
+  width: 170px;
+}
 .links {
   font-size: small;
   margin-left: auto;
