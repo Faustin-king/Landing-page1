@@ -96,30 +96,35 @@ body {
 /*Section2 box image styles*/
 
 .s2boximg {
-  width: 200px;
-  height: 200px;
-  border-radius: 5px;
+  width: 100px;
+  height: 100px;
+  border-radius: 10px;
   border: 3px solid rbg(0, 0, 0);
   transition: 0.5s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
-
 .s2boximg:hover {
   width: 250px;
   height: 250px;
   border: 3px solid rbg(0, 0, 0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .boxes {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   margin-top: 30px;
 }
 
 /*Box1 container styles*/
 
 .b1container {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -136,7 +141,7 @@ body {
 
 .b1info {
   font-size: 15px;
-  margin-top: 30px;
+  margin-top: 5px;
   width: 170px;
 }
 
@@ -179,7 +184,7 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .section4 {
@@ -214,6 +219,7 @@ body {
   padding-right: 20px;
   color: white;
   margin-right: 20px;
+  font-weight: 500;
 }
 .hlink {
   margin-right: 20px;
