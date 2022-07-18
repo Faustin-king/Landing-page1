@@ -201,7 +201,7 @@ body {
   border: 1.5px solid rgb(255, 255, 255);
   font-weight: 900;
   margin-right: 10px;
-  color: rgb(255, 255, 255);
+  color: #1f2937;
 }
 .s4btn:hover {
   cursor: pointer;
