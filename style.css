@@ -197,7 +197,7 @@ body {
   width: 120px;
   height: 50px;
   background-color: rbg(255, 84, 84);
-  border-radius: 3px;
+  border-radius: 8px;
   border: 1.5px solid rgb(255, 255, 255);
   font-weight: 900;
   margin-right: 10px;
