@@ -136,7 +136,7 @@ body {
 
 .b1info {
   font-size: 15px;
-  margin-top: 5px;
+  margin-top: 30px;
   width: 170px;
 }
 
@@ -173,13 +173,13 @@ body {
   border: 1px solid rgba(0, 0, 0, 0.5);
   min-height: 100px;
   margin-right: auto;
-  margin-right: auto;
+  margin-left: auto;
   background-color: #3882f6;
-  box-direction: 20px;
+  border-radius: 20px;
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
 }
 
 .section4 {
