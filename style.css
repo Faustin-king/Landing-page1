@@ -2,6 +2,7 @@ body {
   font-family: 'Roboto Slab', serif;
   width: 100vw;
   height: 100vh;
+  background-image: url(images/lussier.jpg);
 }
 
 .header,
@@ -101,17 +102,11 @@ body {
   border-radius: 10px;
   border: 3px solid rbg(0, 0, 0);
   transition: 0.5s;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 .s2boximg:hover {
   width: 250px;
   height: 250px;
   border: 3px solid rbg(0, 0, 0);
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .boxes {
