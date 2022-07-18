@@ -96,8 +96,8 @@ body {
 /*Section2 box image styles*/
 
 .s2boximg {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   border-radius: 5px;
   border: 3px solid rbg(0, 0, 0);
   transition: 0.5s;
@@ -118,8 +118,8 @@ body {
 /*Box1 container styles*/
 
 .b1container {
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
   display: flex;
   justify-content: center;
   align-items: center;
