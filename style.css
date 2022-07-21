@@ -170,8 +170,9 @@ body {
 .s3h4 {
   max-width: 70%;
   margin-left: auto;
-  margin-right: 20px;
+  margin-right: 50px;
   font-weight: bold;
+  font-size: 20px;
 }
 
 /* Section4 styles */
