@@ -211,9 +211,9 @@ body {
 .links {
   font-size: small;
   margin-left: auto;
-  padding-right: 20px;
+  padding-right: 100px;
   color: white;
-  margin-right: 20px;
+  margin-right: 40px;
   font-weight: 900;
 }
 .hlink {
