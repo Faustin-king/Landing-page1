@@ -90,6 +90,7 @@ body {
   height: 250px;
   width: 350px;
   margin-left: 50px;
+  border-radius: 15px;
 }
 
 /*Section 2 heading styles*/
