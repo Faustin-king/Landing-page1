@@ -239,3 +239,8 @@ a {
   color: #f9faf8;
   font-size: 20px;
 }
+
+a:hover {
+  cursor: pointer;
+  color: lawngreen;
+}
