@@ -52,6 +52,7 @@ body {
 
 .section1 {
   background-image: url(images/back.jpg);
+  padding: 200px 800px;
   opacity: 1;
 }
 
