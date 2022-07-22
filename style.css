@@ -91,6 +91,7 @@ body {
   width: 350px;
   margin-left: 50px;
   border-radius: 15px;
+  border: 3px solid whitesmoke;
 }
 
 /*Section 2 heading styles*/
@@ -136,11 +137,13 @@ body {
   border-radius: 10px;
   transition: 0.5s;
   cursor: pointer;
+  border: 3px solid whitesmoke;
 }
 
 .b1container:hover {
   width: 350px;
   height: 350px;
+  border: 3px solid crimson;
 }
 
 .b1info {
