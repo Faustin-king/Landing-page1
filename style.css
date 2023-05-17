@@ -1,5 +1,5 @@
 body {
-  font-family: 'Roboto Slab', serif;
+  font-family: "Roboto Slab", serif;
   width: 100vw;
   height: 100vh;
   background-image: url(images/lussier.jpg);
@@ -258,5 +258,5 @@ a {
 
 a:hover {
   cursor: pointer;
-  color: orangered;
+  color: coral;
 }
